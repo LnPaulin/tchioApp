@@ -142,6 +142,7 @@ STORAGES = {
     },
 }
 
+CSRF_TRUSTED_ORIGINS = ['https://hkkebtgwgw.us-east-1.awsapprunner.com']
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
